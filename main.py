@@ -11,7 +11,7 @@ ACCESS_TOKEN_EXPIRE_MINUTES = 30
 
 
 fakedb = {
-    "Juniad" : {
+    "Junaid" : {
         "username":"Junaid",
         "fullname":"Junaid Nazir",
         "email" : "junaidnazir7501@gmail.com",
